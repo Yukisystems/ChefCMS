@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c64P1SiOyKAG1UslMtSEdQ/Dee3p6eZT+0ZwsgaNpY6m1yZv+/3lVI0GwT/4938YZF7DZdXATx32ujDNV14VKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Gamedev_local\\WebProjects\\ManagementSYS\\Shared\\ManagementSYS.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thetu\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

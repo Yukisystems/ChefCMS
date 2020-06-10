@@ -1,0 +1,9 @@
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\bin\Debug\netstandard2.1\ManagementSYS.Shared.deps.json
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\bin\Debug\netstandard2.1\ManagementSYS.Shared.dll
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\bin\Debug\netstandard2.1\ManagementSYS.Shared.pdb
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\obj\Debug\netstandard2.1\ManagementSYS.Shared.csprojAssemblyReference.cache
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\obj\Debug\netstandard2.1\ManagementSYS.Shared.csproj.CoreCompileInputs.cache
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\obj\Debug\netstandard2.1\ManagementSYS.Shared.AssemblyInfoInputs.cache
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\obj\Debug\netstandard2.1\ManagementSYS.Shared.AssemblyInfo.cs
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\obj\Debug\netstandard2.1\ManagementSYS.Shared.dll
+D:\Gamedev_local\WebProjects\ManagementSYS\Shared\obj\Debug\netstandard2.1\ManagementSYS.Shared.pdb
